@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8775'
     url: http://www.gutenberg.org/2009/agents/8775
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19599#Troublous-Times-in-CanadaA-History-of-the-Fenian-Raids-of-1866-and-1870
 gutenberg_bookshelf: Canada
 gutenberg_issued: '2006-10-22'
 gutenberg_type: Text
