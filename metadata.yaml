@@ -1,0 +1,30 @@
+_repo: Troublous-Times-in-CanadaA-History-of-the-Fenian-Raids-of-1866-and-1870_19599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacDonald, John A. (John Alexander)
+    birthdate: 1846
+    deathdate: 1922
+    gutenberg_agent_id: '8775'
+    url: http://www.gutenberg.org/2009/agents/8775
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2006-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Fenians'
+- !lcsh 'Canada -- History -- Fenian Invasions, 1866-1870'
+title: 'Troublous Times in Canada
+
+  A History of the Fenian Raids of 1866 and 1870'
+url: http://www.gutenberg.org/ebooks/19599
